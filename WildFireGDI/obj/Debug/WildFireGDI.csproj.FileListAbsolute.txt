@@ -1,0 +1,11 @@
+C:\Users\PROGRAMMING\Desktop\OOP\WildFireGDI\bin\Debug\WildFireGDI.exe.config
+C:\Users\PROGRAMMING\Desktop\Programming\Personal Projects\WildFireGDI\bin\Debug\WildFireGDI.exe.config
+C:\Users\PROGRAMMING\Desktop\Programming\Personal Projects\WildFireGDI\bin\Debug\WildFireGDI.exe
+C:\Users\PROGRAMMING\Desktop\Programming\Personal Projects\WildFireGDI\bin\Debug\WildFireGDI.pdb
+C:\Users\PROGRAMMING\Desktop\Programming\Personal Projects\WildFireGDI\bin\Debug\GDIDrawer.dll
+C:\Users\PROGRAMMING\Desktop\Programming\Personal Projects\WildFireGDI\obj\Debug\WildFireGDI.csprojResolveAssemblyReference.cache
+C:\Users\PROGRAMMING\Desktop\Programming\Personal Projects\WildFireGDI\obj\Debug\WildFireGDI.MainForm.resources
+C:\Users\PROGRAMMING\Desktop\Programming\Personal Projects\WildFireGDI\obj\Debug\WildFireGDI.Properties.Resources.resources
+C:\Users\PROGRAMMING\Desktop\Programming\Personal Projects\WildFireGDI\obj\Debug\WildFireGDI.csproj.GenerateResource.Cache
+C:\Users\PROGRAMMING\Desktop\Programming\Personal Projects\WildFireGDI\obj\Debug\WildFireGDI.exe
+C:\Users\PROGRAMMING\Desktop\Programming\Personal Projects\WildFireGDI\obj\Debug\WildFireGDI.pdb
